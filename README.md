@@ -3,9 +3,7 @@ All'interno della repository è possibile trovare tutto il materiale delle eserc
 
 # Come iniziare
 
-## Installazione Ambiente di Lavoro
-
-*Locale*
+## Installazione ambiente di lavoro *Locale*
 
 ### Prerequisiti/Download: 
 
@@ -25,6 +23,6 @@ All'interno della repository è possibile trovare tutto il materiale delle eserc
 	- Chiudere tutto e procedere alla selezione del compilatore Python (in basso a dx) se non automaticamente rilevato;
 	- Creare il primo file .py
 
-*Online*
+## Utilizzare ambiente di lavoro *Online*
 
 Colab: https://colab.research.google.com/
