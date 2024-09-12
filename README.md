@@ -3,16 +3,16 @@ All'interno della repository è possibile trovare tutto il materiale delle eserc
 
 # Come iniziare
 
-##Installazione Ambiente di Lavoro
+## Installazione Ambiente di Lavoro
 
 *Locale*
 
-###Prerequisiti/Download: 
+### Prerequisiti/Download: 
 
 	- Python: https://www.python.org/downloads/
 	- Visual Studio Code: https://code.visualstudio.com/download
 
-##Step di installazione e configurazione:
+## Step di installazione e configurazione:
 
 1) Installare Python eseguendo il pacchetto precedentemente scaricato:
 	- fare click sull'opzione add python.exe to Path e poi cliccare su Install Now;
